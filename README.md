@@ -7,12 +7,12 @@
   -  building a new portfolio
   -  learning **Docker**
   -  learning **Node**
+  -  learning **MongoDB**
+  -  learning **React**
+  -  learning **Express**
   
 - 🌱 My Future projects:
   -  improve backend development skills 
-  -  start learning **MongoDB**
-  -  start learning **React**
-  -  start learning **Express**
   -  build a simple CRUD app with Express & MongoDB
 
 - ⚡ When I'm not coding, **I'm walking my pup or curled up reading a book with a cup of coffee.**
