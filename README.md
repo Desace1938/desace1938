@@ -5,7 +5,7 @@
   -  pushing daily Codewars challenges
   -  completing 100Devs 
   -  building a new portfolio
-  -  learning **Docker**
+  -  <s>learning **Docker**</s>
   -  learning **Node**
   -  learning **MongoDB**
   -  learning **React**
