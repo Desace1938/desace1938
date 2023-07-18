@@ -4,7 +4,6 @@
   -  <s>[cloning the Wordle game](https://game-wordleclone.netlify.app) using CSS & HTML</s>
   -  pushing daily Codewars challenges
   -  completing 100Devs 
-  -  building a new portfolio
   -  <s>learning **Docker**</s>
   -  learning **Node**
   -  learning **MongoDB**
