@@ -5,14 +5,14 @@
   -  pushing daily Codewars challenges
   -  completing 100Devs 
   -  <s>learning **Docker**</s>
-  -  learning **Node**
-  -  learning **MongoDB**
+  -  <s>learning **Node**</s>
+  -  <s>learning **MongoDB**</s>
   -  learning **React**
   -  learning **Express**
   
 - 🌱 My Future projects:
   -  improve backend development skills 
-  -  build a simple CRUD app with Express & MongoDB
+  -  build an app with Express & MongoDB
 
 - ⚡ When I'm not coding, **I'm walking my pup or curled up reading a book with a cup of coffee.**
 
