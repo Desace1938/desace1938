@@ -1,7 +1,6 @@
 <img src="https://github.com/Desace1938/desace1938/assets/97551971/cf2c0de1-69df-444a-9533-9e3988ac9611">
 <h1 align="center">Hi 👋, I'm Desiree Aceves</h1>
 
-
 - 🔭 I’m currently working on:
   -  <s>[cloning the Wordle game](https://game-wordleclone.netlify.app) using CSS & HTML</s>
   -  pushing daily Codewars challenges
