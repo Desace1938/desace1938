@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently working on:
-  -  <s>[cloning the Wordle game](https://game-wordleclone.netlify.app) using CSS & HTML</s>
   -  pushing daily Codewars challenges
   -  completing 100Devs 
   -  <s>learning **Docker**</s>
