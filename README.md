@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on:
   -  pushing daily Codewars challenges
-  -  completing 100Devs 
   -  <s>learning **Docker**</s>
   -  <s>learning **Node**</s>
   -  <s>learning **MongoDB**</s>
