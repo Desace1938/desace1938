@@ -11,6 +11,7 @@
   -  <s>learning **MongoDB**</s>
   -  learning **React**
   -  learning **Express**
+  -  <s>learning **Angular**</s>
 
 - 🌱 My Future projects:
   -  improve backend development skills 
