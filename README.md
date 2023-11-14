@@ -5,17 +5,11 @@
 
 
 - 🔭 I’m currently working on:
-  -  pushing daily Codewars challenges
-  -  <s>learning **Docker**</s>
-  -  <s>learning **Node**</s>
-  -  <s>learning **MongoDB**</s>
   -  learning **React**
   -  learning **Express**
-  -  <s>learning **Angular**</s>
 
 - 🌱 My Future projects:
   -  improve backend development skills 
-  -  build an app with Express & MongoDB
 
 - ⚡ When I'm not coding, **I'm at a local cafe or hanging out with my cats and pup.**
 
@@ -25,6 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/desaceves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desaceves" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/desaceves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desaceves" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/desireeaceves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="desireeaceves" height="30" width="40" /></a>
 </p>
