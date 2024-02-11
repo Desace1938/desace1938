@@ -1,7 +1,7 @@
 <img src="https://github.com/Desace1938/desace1938/assets/97551971/cf2c0de1-69df-444a-9533-9e3988ac9611">
 <h1 align="center">Hi 👋, I'm Desiree Aceves</h1>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<!-- <img align="center" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"> -->
 
 
 - 🔭 I’m currently working on:
